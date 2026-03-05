@@ -201,18 +201,6 @@ Example output record:
 
 ---
 
-# Future Improvements
-
-Possible improvements for this project:
-
-* Add **automatic evaluation metrics**
-* Add **confusion matrix analysis**
-* Add **prompt experimentation**
-* Support **multiple LLM models**
-* Implement **batch inference for faster processing**
-
----
-
 # Author
 
 This project demonstrates the use of **LLM-based pipelines for automated news classification and dataset labeling**.
