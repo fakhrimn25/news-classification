@@ -1,0 +1,1 @@
+from tools.news_classification.tool import NewsClassification
